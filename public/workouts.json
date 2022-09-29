@@ -1,0 +1,84 @@
+[
+    {
+      "id": "5e66be2b-295e-4c2d-a2c2-ca783f8b234e",
+      "name": "Push-ups",
+      "age": 20,
+      "ageLimit": 40,
+      "time": 60,
+      "img": "https://images.pexels.com/photos/176782/pexels-photo-176782.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "50 to 100 push-ups should be enough to maintain a good upper body."
+    },
+    {
+      "id": "1ed14994-116f-4c62-b05a-4a8bb16f2abe",
+      "name": "Plank up-downs",
+      "age": 20,
+      "ageLimit": 40,
+      "time": 30,
+      "img": "https://images.pexels.com/photos/3768901/pexels-photo-3768901.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Add 2 or 3 sets of 15 to 20 repetitions of the up down plank to your full body workouts."
+    },
+    {
+      "id": "0c1a7e40-5590-4120-80c0-6242871cc29e",
+      "name": "Split lunge jumps",
+      "age": 20,
+      "ageLimit": 35,
+      "time": 60,
+      "img": "https://images.pexels.com/photos/1222324/pexels-photo-1222324.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Beginners should aim for 5 to 10 reps on each leg or 30 seconds total."
+    },
+    {
+      "id": "d42c5b48-0249-4725-b747-7471e4ce4061",
+      "name": "Sit up",
+      "age": 20,
+      "ageLimit": 40,
+      "time": 40,
+      "img": "https://images.pexels.com/photos/3771071/pexels-photo-3771071.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "The American College of Sports Medicine recommends three sets of 8 to 12 repetitions three times per week."
+    },
+    {
+      "id": "79818146-93fc-4453-9382-6ab99a97d100",
+      "name": "Tai Chi",
+      "age": 20,
+      "ageLimit": 40,
+      "time": 600,
+      "img": "https://images.pexels.com/photos/8461244/pexels-photo-8461244.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "We recommend practicing a little bit every day, at least 10 minutes."
+    },
+    {
+      "id": "529d43ad-0379-41ac-bff4-d48f7aa94fcb",
+      "name": "Hip thrust",
+      "age": 20,
+      "ageLimit": 45,
+      "time": 30,
+      "img": "https://images.pexels.com/photos/8436947/pexels-photo-8436947.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Try three 30-second sets of hip thrusts at the start of the day to get those muscles firing."
+    },
+    {
+      "id": "5d527eae-dddd-4647-b4cc-d95ed2972436",
+      "name": "High Jumps",
+      "age": 20,
+      "ageLimit": 40,
+      "time": 10,
+      "img": "https://images.pexels.com/photos/6009295/pexels-photo-6009295.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "The weekly jumping sessions should be much shorter (6-8 jumps) and the intensity levels very high."
+    },
+    {
+      "id": "a52bda95-e8bf-4b42-ace1-a7e31fac5143",
+      "name": "Muscles Workout",
+      "age": 20,
+      "ageLimit": 50,
+      "time": 60,
+      "img": "https://images.pexels.com/photos/6456020/pexels-photo-6456020.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "your muscles lose strength and power as they heal; after 36–48 hours."
+    },
+    {
+      "id": "96adf6a5-ec7a-40f6-8e9e-b8d7192d97ce",
+      "name": "Lose Belly Fat",
+      "age": 20,
+      "ageLimit": 50,
+      "time": 60,
+      "img": "https://images.pexels.com/photos/6998865/pexels-photo-6998865.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "you should work your way up to 30 to 60 minutes of moderate-intensity activity four to five times a week."
+    }
+  ]
+  
