@@ -43,27 +43,3 @@
     }
 }
 
-@media screen and (max-width: 768px){
-    .shop-container {
-        grid-template-columns: repeat(1, 1fr);
-    }
-    .products {
-        grid-template-columns: repeat(2, 1fr);
-    }
-}
-@media screen and (max-width: 576px){
-    .shop-container {
-        grid-template-columns: repeat(1, 1fr);
-    }
-    .products {
-        grid-template-columns: repeat(1, 1fr);
-    }
-}
-@media screen and (max-width: 320px){
-    .shop-container {
-        grid-template-columns: repeat(1, 1fr);
-    }
-    .products {
-        grid-template-columns: repeat(1, 1fr);
-    }
-}
