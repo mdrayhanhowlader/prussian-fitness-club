@@ -1,5 +1,5 @@
 import React from 'react';
-import './Prodcut.css'
+import './Product.css'
 
 const Product = (props) => {
     const {handleAddToCart} = props

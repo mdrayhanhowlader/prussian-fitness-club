@@ -11,6 +11,7 @@
 
 .profile-info {
     margin-bottom: 25px;
+
 }
 
 .profile-info h4 {
@@ -27,6 +28,7 @@
     margin: auto;
     color: rgba(9, 84, 197, 0.952);
     margin-top: 10px;
+    margin-bottom: 80px;
 }
 
 .profile-details h4 {

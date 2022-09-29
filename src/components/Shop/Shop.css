@@ -35,6 +35,20 @@
     color: azure;
 }
 
+.answer-container {
+    background-color: rgb(3, 5, 29);
+    text-align: center;
+    color: black;
+}
+
+.single-answer {
+    color: white;
+    background-color: rgba(6, 6, 58, 0.452);
+    width: 80%;
+    margin: auto;
+    padding: 30px;
+    margin-top: 40px;
+}
 
 
 @media screen and (max-width: 992px){
