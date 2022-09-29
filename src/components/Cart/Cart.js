@@ -1,8 +1,10 @@
 import React, { useEffect, useState } from 'react';
-import img from '../../images/profile.jpg'
-import './Cart.css'
+// import { toast } from 'react-toastify';
+// import 'react-toastify/dist/ReactToastify.css';
+import img from '../../images/profile.jpg';
+import './Cart.css';
 
-
+// toast.configure()
 
 const Cart = (props) => {
     const { cart } = props
@@ -22,6 +24,10 @@ const Cart = (props) => {
         setSeconds(num)
         localStorage.setItem("seconds", JSON.stringify(num))
     }
+
+    // const handlerToast = () => {
+    //     toast("succeed")
+    // }
 
     return (
         <div>
@@ -86,7 +92,7 @@ const Cart = (props) => {
                     <p className='seconds'>{seconds} Seconds</p>
                 </div>
             </div>
-            <button className='complete-btn'>Activity Completed</button>
+            <button  className='complete-btn'>Activity Completed</button>
         </div>
     );
 };
