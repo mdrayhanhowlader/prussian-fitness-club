@@ -26,7 +26,7 @@ const Cart = (props) => {
     }
 
     const handlerToast = () => {
-        toast("Your Activities has Done.")
+        toast("Your Activities has Done!!!")
     }
 
     return (

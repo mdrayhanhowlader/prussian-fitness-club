@@ -21,7 +21,7 @@ const Shop = () => {
 
     return (
         <div>
-                    <div className='shop-container'>
+            <div className='shop-container'>
             <div className="products-container">
 
                 <div className="shop-logo">

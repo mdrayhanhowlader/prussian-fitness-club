@@ -58,6 +58,7 @@
     font-weight: 600;
     padding-left: 5px;
     cursor: pointer;
+    margin-left: 5px;
 }
 
 .break:hover {
@@ -95,4 +96,11 @@
 .complete-btn:hover {
     background-color: rgb(255, 0, 119);
     cursor: pointer;
+}
+
+@media screen and (max-width: 320px) {
+    .profile {
+        display: flex;
+        justify-content: center;
+    }
 }
