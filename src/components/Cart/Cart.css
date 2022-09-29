@@ -1,16 +1,15 @@
 .profile {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
 }
 .profile-avatar img{
-    width: 50px;
-    height: 50px;
-    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    border-radius: 10%;
 }
 
 .profile-info {
-    margin-left: 5px;
     margin-bottom: 25px;
 }
 
@@ -22,11 +21,12 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    background-color: lightgrey;
-    width: 100%;
-    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.911);
+    width: 95%;
+    border-radius: 50px;
     margin: auto;
-    color: rgb(76, 81, 85);
+    color: rgba(9, 84, 197, 0.952);
+    margin-top: 10px;
 }
 
 .profile-details h4 {
@@ -38,7 +38,7 @@
 }
 
 .breaks {
-    background-color: lightgrey;
+    background-color: rgba(211, 211, 211, 0);
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -54,39 +54,43 @@
     text-align: center;
     align-items: center;
     font-weight: 600;
-    margin-left: 2px;
+    margin-left: 5px;
     cursor: pointer;
 }
 
 .break:hover {
-    background-color: blue;
+    background-color: yellow;
     color: red;
 }
 
 
 .exercise-time,
 .break-time {
-    background-color: lightgrey;
-    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 40px;
     display: flex;
     justify-content: space-evenly;
-    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color: rgb(11, 11, 112);
+
 }
 
 .seconds {
-    color: rgba(19, 20, 20, 0.479);
+    color: rgba(17, 8, 100, 0.479);
 }
 
 .complete-btn {
     width: 100%;
-    padding: 10px;
+    padding: 15px;
     border: none;
-    border-radius: 5px;
-    background-color: blue;
-    color: white;
+    border-radius: 40px;
+    background-color: rgb(190, 13, 13);
+    color: rgb(255, 255, 255);
     font-size: 16px;
 }
 
 .complete-btn:hover {
-    background-color: tomato;
+    background-color: rgb(255, 0, 119);
+    cursor: pointer;
 }

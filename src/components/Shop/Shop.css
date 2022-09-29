@@ -29,7 +29,11 @@
     margin-right: 10px;
 }
 
-
+.cart-container {
+    background-color: rgb(15, 15, 138);
+    padding: 5px;
+    color: azure;
+}
 
 
 
